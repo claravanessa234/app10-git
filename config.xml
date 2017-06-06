@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 
  <widget xmlns ="http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
    id = "com.phonegap.example10"
    version = "1.0.0">
    
-  <name> app10 Cuidemos el planeta </name>
+  <name> app 10</name>
   
   <description>
-    Aplicacion que realizara distintos procesos 
+   app 10 cuidado del planeta
   </description>
   
   <author href="https://build.phonegap.com" email="clarita.com">
-   Clara Vanessa 4 E 
+   Clara Vanessa Camacho Tlatelpa  4 E 
   </author>
   
   <!--Perzonaliza la aplicacion y la plataforma -->
@@ -45,3 +45,5 @@
  <icon src="res/android/mdpi.png" />
  </widget> 
   
+ 
+
