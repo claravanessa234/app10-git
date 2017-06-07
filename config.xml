@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?> 
 
 <widget xmlns ="http:/www.w3.org/ns/widgets"
-   xmlns:gap= "http://phonegap.example1"
-   ID ="com.phonegap.example1"
+   xmlns:gap= "http://phonegap.com/ns/1.0"
+   ID ="com.phonegap.example10"
    version="1.0.1">
    
    <name>app 10</name>
