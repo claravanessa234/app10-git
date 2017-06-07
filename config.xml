@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?> 
 
 <widget xmlns ="http:/www.w3.org/ns/widgets"
-   xmlns:gap= "http://phonegap.com/ns/1.0"
-   ID ="com.phonegap.example10"
+   xmlns:gap= "http://phonegap.example1"
+   ID ="com.phonegap.example1"
    version="1.0.1">
    
-   <name>app 10</name>
+   <name> APP Bibliografia  </name>
    
    <description> 
-      app 10 cuidado del planeta
+      Aplicacion que muestra los libros del curso de programacion
    </description>
    
-   <author href="https://build.phonegap.com" email="clarita.com">
-    Clara Vanessa Camacho Tlatelpa  4 E
+   <author href="https://build.phonegap.com" email="Humberto_lmfao@gmail.com">
+    Clara Vanessa Camacho Tlatelpa 
    </author>
    
   <!--pERSONALIZA LA APLICACION Y PLATAFROMA-->
